@@ -43,8 +43,8 @@
   
 | Étape       | Calcul Manuel (Photo) | Résultat Code | Commentaire |
 |-------------|-----------------------|---------------|-------------|
-| ANOVA       | ![ANOVA](photos/jsp.png) | `F=1.36, p=0.258` | Résultats cohérents |
-
+| ANOVA       | ![ANOVA](IMG_8226.jpg) | `F=1.36, p=0.258` | Résultats incohérents |
+- C'est normal parce que l'ensemble de données est très différent de l'ensemble du sujet de TD ( Que 5 valeurs )
 ---
 
 ## **Visualisations** 
