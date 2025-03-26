@@ -56,3 +56,32 @@
    ![Boxplots](box_plot.png)  
 
 --- 
+
+## Interprétation des graphiques 📊
+
+### Figure 1 : Distributions des variables clés
+
+#### **Rendement (RENDEMENT_T_HA)**  
+- Distribution centrée entre **8 et 10 t/ha**, avec un pic à **8 t/ha**.  
+- Quelques valeurs extrêmes (4–6 t/ha et 12 t/ha) pouvant refléter des parcelles sous-optimales ou très productives.  
+
+#### **Température (TEMPERATURE_C)**  
+- Plage dominante : **20°C à 24°C**, typique d'un climat tempéré.  
+- Peu de valeurs extrêmes (<16°C ou >28°C), suggérant un environnement stable.  
+
+#### **Précipitations (PRECIPITATIONS_MM)**  
+- Concentration entre **80 mm et 120 mm**, avec un maximum à **100–120 mm**.  
+- Valeurs <80 mm pourraient indiquer des épisodes de sécheresse ponctuels.  
+
+---
+
+### Figure 2 : Matrice de corrélation  
+- Corrélations globalement **très faibles** (proches de **0**) entre les variables.  
+- Aucun lien linéaire fort détecté entre :  
+  - Température et rendement (`TEMPERATURE_C` : **0.01**)  
+  - Précipitations et rendement (`PRECIPITATIONS_MM` : **0.03**)  
+  - Surface et rendement (`SURFACE_HA` : **1.00**, corrélation attendue car variable redondante).  
+
+🔍 **Implications** :  
+- D'autres facteurs non mesurés (sols, pratiques agricoles) pourraient expliquer les variations de rendement.  
+- Une analyse des **interactions entre variables** ou des modèles non linéaires serait pertinente.  
