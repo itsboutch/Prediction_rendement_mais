@@ -55,16 +55,4 @@
 3. **Boxplots** :  
    ![Boxplots](box_plot.png)  
 
----
-
-## **Recommandations**
-- Privilégier les sols argileux** (meilleur rendement observé).  
-- Optimiser l’engrais** (forte importance dans le modèle).  
-- Surveiller les précipitations** (corrélation positive).  
-
----
-
-## **Limites**
-- Petit échantillon de données (`n=5`).  
-- Modèles peu performants (`R² < 0` → inadaptés).  
-- Biais potentiel dans l’ANOVA (groupe "Limoneux" sous-représenté).  
+--- 
