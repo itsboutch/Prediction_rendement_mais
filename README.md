@@ -49,11 +49,11 @@
 
 ## **Visualisations** 
 1. **Histogrammes** :  
-   ![Histogramme Rendement](plots/hist_rendement.png)  
+   ![Histogramme Rendement](Figure_1.png)  
 2. **Heatmap des Corrélations** :  
-   ![Heatmap](plots/heatmap.png)  
+   ![Heatmap](Figure_2_heatmap.png)  
 3. **Boxplots** :  
-   ![Boxplots](plots/boxplots.png)  
+   ![Boxplots](box_plot.png)  
 
 ---
 
