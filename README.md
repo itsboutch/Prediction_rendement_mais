@@ -84,4 +84,3 @@
 
 🔍 **Implications** :  
 - D'autres facteurs non mesurés (sols, pratiques agricoles) pourraient expliquer les variations de rendement.  
-- Une analyse des **interactions entre variables** ou des modèles non linéaires serait pertinente.  
